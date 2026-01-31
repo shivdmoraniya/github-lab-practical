@@ -1,0 +1,3 @@
+GitHub tracks everything – Stores who changed what, Stores when it was changed, Keeps every old version and If something breaks: You roll back to a previous working version in seconds.
+Safe collaboration (no overwriting) - Ram pushes frontend changes, You push backend changes. Github merges them safely and Warns you if there’s a conflict to Prevents accidental data loss.
+Code review & teamwork - Before changes go live, team reviews code and provide Comments on improvements, Fixes bugs early
